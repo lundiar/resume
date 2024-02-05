@@ -17,11 +17,13 @@ Expertise
 Education
 ----
 Bachelor's Degree, 2024, College of Arts and Sciences
+
 Appalachian State University
 
 Professional Experience
 ---
 **Assistant Editor**, *History Matters*, Appalachian State University, Boone, NC, *2022 - 2023*
+
 **Undergraduate Research Assistant**, [Blue Ridge Conservancy](https://blueridgeconservancy.org/), Blowing Rock, NC, *2023*
 
 <center> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Cara_de_quem_caiu_do_caminh%C3%A3o..._%28cropped%29.jpg" width='200'>
