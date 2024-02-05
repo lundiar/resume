@@ -1,7 +1,7 @@
 A L U N D I
 ========
 
-<center> <img src="/brmountains.jpg" width='400'> </center>
+<center> <img src="brmountains.jpg" width='400'> </center>
 
 #### Undergraduate Majoring in Anthropology and Public History, Appalachian State University
 
